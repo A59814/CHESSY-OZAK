@@ -1,0 +1,20 @@
+{
+  "name": "Chessy OZAK",
+  "short_name": "Chessy",
+  "description": "لعبة شطرنج ممتعة ضد خصوم من الحيوانات | A fun chess game vs animal opponents",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "background_color": "#2b1055",
+  "theme_color": "#2b1055",
+  "categories": ["games", "kids"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
